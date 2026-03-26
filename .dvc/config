@@ -1,2 +1,8 @@
+[core]
+    remote = two
 ['remote "myremote"']
     url = ../s3
+['remote "first"']
+    url = ../s3
+['remote "two"']
+    url = C:\Users\dembl\OneDrive\Desktop\ops\dvc\s3
